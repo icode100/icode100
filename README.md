@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a passionate developer with experience in AI. I love working on open-source projects and contributing to the developer community.
+I'm a passionate developer interested in AI. I love working on open-source projects and contributing to the developer community.
 
 - 🔭 I’m currently interested in machine learning.
 - 🌱 I’m currently learning computer science and engineering.
