@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Ipsit Das but you can call me icode100👋
 
-<!--
-**icode100/icode100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=icode100&color=blue)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer with experience in AI. I love working on open-source projects and contributing to the developer community.
+
+- 🔭 I’m currently interested in machine learning.
+- 🌱 I’m currently learning computer science and engineering.
+- 👯 I’m looking to collaborate on projects that dive deep into AI and machine learning
+- 📫 How to reach me: ipsit.das1@gmail.com
+
+## My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=icode100&show_icons=true&theme=radical)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ipsit-das)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/icode100)
