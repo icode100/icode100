@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ipsit-das/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.leetcode.com/icode100"><img src="https://img.shields.io/badge/-LeetCode-77cf46?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-<!--   <a href="https://icode100.github.io/icode100.github.io/"><img src="https://img.shields.io/badge/My Portfolio-888F16?style=for-the-badge&logo=My portfolio&logoColor=white"></a> -->
+  <a href="https://icode100.github.io/"><img src="https://img.shields.io/badge/My Portfolio-888F16?style=for-the-badge&logo=My portfolio&logoColor=white"></a>
 </p>
 <br>
 
