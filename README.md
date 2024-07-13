@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ipsit-das/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.leetcode.com/icode100"><img src="https://img.shields.io/badge/-LeetCode-77cf46?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-  <a href="https://icode100.github.io/"><img src="https://img.shields.io/badge/My Portfolio-888F16?style=for-the-badge&logo=My portfolio&logoColor=white"></a>
+  <a href="https://www.leetcode.com/icode100"><img src="https://img.shields.io/badge/-LeetCode-77cf4?style=for-the-badge&logo=LeetCode&logoColor=white"></a>
+  <a href="https://icode100.github.io/"><img src="https://img.shields.io/badge/My Portfolio-ffcc00?style=for-the-badge&logo=googleearth&logoColor=white"></a>
 </p>
 <br>
 
@@ -38,4 +38,4 @@ I'm a passionate developer interested in AI. I love working on open-source proje
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ipsit-das)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/icode100)
+[![Twitter](https://img.shields.io/badge/x-blue?style=flat&logo=x)](https://www.x.com/icode100)
