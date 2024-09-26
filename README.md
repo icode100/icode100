@@ -6,14 +6,16 @@
   <a href="https://www.linkedin.com/in/ipsit-das/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.leetcode.com/icode100"><img src="https://img.shields.io/badge/-LeetCode-77cf4?style=for-the-badge&logo=LeetCode&logoColor=white"></a>
   <a href="https://icode100.github.io/"><img src="https://img.shields.io/badge/My Portfolio-ffcc00?style=for-the-badge&logo=googleearth&logoColor=white"></a>
+  <a href="https://www.codechef.com/users/icode100"><img src="https://img.shields.io/badge/CodeChef-8a6b53?style=for-the-badge&logo=codechef&logoColor=white"></a>
 </p>
 <br>
 
 ## About Me
 
-I'm a passionate developer interested in AI. I love working on open-source projects and contributing to the developer community.
+I'm a passionate developer and a budding competitve programmer interested in AI. I love working on open-source projects and contributing to the developer community.
 
 - 🔭 I’m currently interested in machine learning.
+- ⚒️ I am currently working on project related to Knowledge Graph Completion.
 - 🌱 I’m currently learning computer science and engineering.
 - 👯 I’m looking to collaborate on projects that dive deep into AI and machine learning
 - 📫 How to reach me: ipsit.das1@gmail.com
@@ -34,6 +36,9 @@ I'm a passionate developer interested in AI. I love working on open-source proje
 
 ## My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=icode100&show_icons=true&theme=radical)
+
+## My Competitve Programming Stats
+![CodeChef Stats](https://github.com/icode100/cc-visualizer/blob/main/src/main/java/com/ccvisualizer/ccvisualizer/output.svg)
 
 ## Connect with Me
 
