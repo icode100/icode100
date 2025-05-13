@@ -37,9 +37,6 @@ I'm a passionate developer and a budding competitve programmer interested in AI.
 ## My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=icode100&show_icons=true&theme=radical)
 
-## My Competitve Programming Stats
-![CodeChef Stats](https://github.com/icode100/cc-visualizer/blob/main/src/main/java/com/ccvisualizer/ccvisualizer/output.svg)
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ipsit-das)
