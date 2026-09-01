@@ -31,12 +31,6 @@ I'm a passionate developer and a budding competitve programmer interested in AI.
 ![Express](https://img.shields.io/badge/express-%2300599C.svg?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/react-%04DBFC.svg?style=for-the-badge&logo=react&logoColor=white)
 
-## My Top Languages
-![icode100](https://github-readme-stats.vercel.app/api/top-langs?username=icode100&show_icons=true&locale=en&layout=compact)
-
-## My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=icode100&show_icons=true&theme=radical)
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ipsit-das)
